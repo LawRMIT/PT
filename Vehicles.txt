@@ -1,0 +1,10 @@
+AAA000#Holden#2004#White Sedan#2017-12-17#4#0#0#
+BBB111#Toyota#2008#Red Sedan#2017-12-02#6#0#0#
+CCC222#Tesla#2012#Blue Sedan#null#0#0#0#
+DDD333#BMW#2000#Black Sedan#null#0#0#0#
+EEE444#Minivan#2008#White Van#2018-01-13#2#02.8#4.0#
+FFF555#Truck#2010#Black Truck#2017-11-28#2#02.2#6.5#
+JJJ999#Cargo Truck#2014#White Truck#2018-03-02#6#02.8#8.5#
+HHH777#Dump Truck#2005#Blue Truck#null#0#02.4#0.0#
+III888#Fire Truck#2000#Red Truck#null#0#02.5#0.0#
+GGG666#Van#2004#Gray Van#null#0#02.0#0.0#
